@@ -1,0 +1,93 @@
+*{
+    padding: 0%;
+    margin: auto;
+    
+}
+
+
+.navbar1{
+
+    width: 1780px;
+    padding: 0%;
+    background-color: rgb(6, 6, 39);
+    overflow: hidden;
+    text-align: left;
+    color: white;
+}
+
+.location{
+    
+    width: 25px;
+    height: 25px;
+    size: 20;
+    padding: 15px;
+
+}
+
+.navbar2{
+    width: 1780px;
+    padding: 0%;
+    background-color: rgb(67, 67, 91);
+    overflow: hidden;
+}
+
+.hamburger{
+    size: 10px;
+    width: 20px;
+    height: 20px;
+
+    padding: 0.5%;
+
+}
+
+.navbar1.nav1{
+    text-align: right;
+}
+
+.backdrop{
+    padding: 0%;
+    margin: left;
+    size: 100px;
+    height: 790px;
+    overlay: none;
+    width: 1790px;
+    background-image: url("background picture.png");
+}
+
+
+
+
+.d{
+    background-image: url("image\ 17.png");
+}
+
+.leftarrow{
+    /* height: 50px;
+    text-align: center; */
+    width: 25px;
+    height: 25px;
+    size: 20;
+    padding: 15px;
+    position: relative;
+}
+
+ul{
+    display: inline-block;
+    list-style-type: none;
+    margin: 0%;
+    padding: 0%;
+    overflow: hidden;
+}
+
+li{
+    float: left;
+    color: white;
+    padding: 5px;
+}
+
+li a{
+    display: block;
+    text-decoration: none;
+    color: white;
+    padding: 5px;
+}
